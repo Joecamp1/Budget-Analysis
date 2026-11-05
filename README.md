@@ -1,6 +1,6 @@
-# 📊Budget-Analysis
+# 📊 Budget-Analysis
 
-## 🛠Tools used 
+## 🛠 Tools used 
 - Microsoft Excel
 - PowerBi
 - Google Sheets
@@ -9,12 +9,12 @@
 This project analyzes the Nigerian National budget of 2025.
 It highlights the disperse of funds across the various MDA in the country.
 
-## What I Learnt
+## 💡 What I Learnt
 - Data sourcing, transformation and inputing
 - How to clean using excel formulas
 - How to visualize using Powebi
 
-## Preview
+## 🔗 Preview
 https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125749.png
 https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125800.png
 https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125815.png
