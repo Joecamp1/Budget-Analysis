@@ -1,11 +1,11 @@
-# Budget-Analysis
+# 📊Budget-Analysis
 
-## Tools used 
+## 🛠Tools used 
 - Microsoft Excel
 - PowerBi
 - Google Sheets
 
-## Project Overview
+## 📈 Project Overview
 This project analyzes the Nigerian National budget of 2025.
 It highlights the disperse of funds across the various MDA in the country.
 
