@@ -15,10 +15,10 @@ It highlights the disperse of funds across the various MDA in the country.
 - How to visualize using Powebi
 
 ## 🔗 Preview
-https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125749.png
-https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125800.png
-https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125815.png
-https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125823.png
+[National budget visual](https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125749.png)
+[Presidency Visual](https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125800.png)
+[Ministry of Defence Visual](https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125815.png)
+[Ministry of Finance](https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125823.png)
 
 > Click the links above to see the images of the final dashboards.
 # Budget-Analysis
