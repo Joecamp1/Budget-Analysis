@@ -1,4 +1,5 @@
 # 📊 Budget-Analysis
+This repo a quick analysis of the important and non-important expenses of the National Budget
 
 ## 🛠 Tools used 
 - Microsoft Excel
@@ -46,8 +47,6 @@ Key fields: MDA, Function (Core / Non-core), Capital, Overhead, Personnel, Total
 - [Ministry of Finance visual](https://github.com/Joecamp1/Budget-Analysis/blob/main/Screenshot%202026-11-01%20125823.png)
 
 > Click the links above to see the images of the final dashboards.
-# 📊 Budget-Analysis
-This repo a quick analysis of the important and non-important expenses of the National Budget
 
 ## Author
 Oluwakorede Campbell [LinkedIn](https://www.linkedin.com/in/oluwakorede-campbell/) | [Portfolio](https://github.com/Joecamp1/Oluwakorede-Portfolio)
