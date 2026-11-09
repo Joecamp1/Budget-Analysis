@@ -35,6 +35,8 @@ Fiscal year: 2025
 
 
 Currency: Naira (₦)
+
+
 Key fields: MDA, Function (Core / Non-core), Capital, Overhead, Personnel, Total Allocation
 
 ## 📝 Report features
