@@ -29,7 +29,11 @@ The report has four pages: a national overview, plus deep dives into the Preside
 
 ## 🗂️ Data
 Source: [Budget Office Appropriation Bill](https://budgetoffice.gov.ng/index.php/2025-executive-proposal/2025-executive-proposal/viewdocument/986)
+
+
 Fiscal year: 2025
+
+
 Currency: Naira (₦)
 Key fields: MDA, Function (Core / Non-core), Capital, Overhead, Personnel, Total Allocation
 
